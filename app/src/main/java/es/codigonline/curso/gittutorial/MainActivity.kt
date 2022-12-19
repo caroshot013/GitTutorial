@@ -9,5 +9,11 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("Esto es un ejemplo")
+        println("Esto es un ejemplo")
+        println("Esto es un ejemplo")
+        println("Esto es un ejemplo")
+        println("Esto es un ejemplo")
+        println("Esto es un ejemplo")
+        println("Esto es un ejemplo")
     }
 }
